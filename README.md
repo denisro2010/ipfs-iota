@@ -1,4 +1,4 @@
-# ipfs-iota
+# NodeJS ipfs-iota
 
 Simple NodeJS program that includes two functions:
 

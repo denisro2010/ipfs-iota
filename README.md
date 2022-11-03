@@ -6,4 +6,4 @@ Simple NodeJS program that includes two functions:
 
 2 - Retrieve data from a local instance of IPFS given its CID from IOTA
 
-RUN (PORT 8089): node main.js
+RUN COMMAND (PORT 8089): node main.js
